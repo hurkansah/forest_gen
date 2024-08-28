@@ -17,9 +17,7 @@ https://github.com/ethz-asl/forest_gen
 ```
 This is improvement version of this repository and adapted for Ros Noetic and Gazebo 11.
 
-For trees and bushes 
+For trees and bushes https://github.com/kubja/gazebo-vegetation is used
 
-https://github.com/kubja/gazebo-vegetation
 
-is used
 
