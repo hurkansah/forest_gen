@@ -4,6 +4,7 @@ Random forest generator with using different type of bushes and trees to create 
 
 Random forest enviroment for the test SLAM or path planner algorithm.
 
+../
 Based on 
 https://github.com/ethz-asl/forest_gen
 
@@ -13,7 +14,7 @@ https://github.com/ethz-asl/forest_gen
   title={Continuous-Time Trajectory Optimization for Online UAV Replanning},
   year={2016}
 }
-
+../
 This is improvement version of this repository and adapted for Ros Noetic and Gazebo 11.
 
 For trees and bushes 
