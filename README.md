@@ -42,6 +42,7 @@ So basically it will create 10 different world file with 0.1 tree density and fo
 You can also change the bush and tree type in the python file random_forest_gen.py
 
 In line 188-191 you can use tree model which you want and you can adjust the percentage.
+same for bushes line 246
 ```
 #numbers =[1,2,3,4,5,6,7,9] % available tree models
 #weights = [0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.3]
@@ -63,5 +64,4 @@ In launch file check the world name because your generated world file will be in
 <arg name="world" default="$(find sim_gazebo)/worlds/forest0.world" />
 ```
 
-
-
+To use world file in your workspace do not forget the copy paste "model" folder.
