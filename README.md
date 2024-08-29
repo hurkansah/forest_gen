@@ -35,8 +35,9 @@ Featues:
 To generate world:
 
 ```
-./src/genForests (number of random world) (map length) (map width) (tree density)
-./src/genForests 10 50 50 0.1
+cd src
+./genForests.sh (number of random world) (map length) (map width) (tree density)
+./genForests.sh 10 50 50 0.1
 ```
 So basically it will create 10 different world file with 0.1 tree density and forest size will be 50 x 50 m.
 
