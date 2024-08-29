@@ -30,7 +30,12 @@ Featues:
 - Changable percentage of the bush and tree type (%10 Tree_1, %20 Tree_2 ...)
 - Better Distribution for Tree distribution
 
-
+Required:
+```
+pip3 install DOE
+pip3 install numpy=1.21
+pip3 install scipy=1.7.0
+```
 
 To generate world:
 
