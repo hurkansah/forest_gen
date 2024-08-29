@@ -32,7 +32,7 @@ Featues:
 
 Required:
 ```
-pip3 install DOE
+pip3 install pyDOE
 pip3 install numpy=1.21
 pip3 install scipy=1.7.0
 ```
