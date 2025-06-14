@@ -3,6 +3,8 @@ Random forest generator with using different type of bushes and trees to create 
 
 ![mediu_forest_top](https://github.com/user-attachments/assets/a6db2491-41c4-4dc6-9a13-3c63e3f9fcff)
 
+![Image](https://github.com/user-attachments/assets/426a6a0a-fccb-4bc3-b353-ed019852c2cc)
+
 Random forest enviroment for the test SLAM or path planner etc. algorithm.
 
 
