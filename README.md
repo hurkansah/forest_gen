@@ -1,7 +1,7 @@
 # Forest Generator for Gazebo
 Random forest generator with using different type of bushes and trees to create test enviroment for Gazebo
 
-![mediu_forest_top](https://github.com/user-attachments/assets/a6db2491-41c4-4dc6-9a13-3c63e3f9fcff)
+![mediu_forest_top](https://github.com/user-attachments/assets/a6db2491-41c4-4dc6-9a13-3c63e3f9fcff  | width=100)
 
 ![Image](https://github.com/user-attachments/assets/426a6a0a-fccb-4bc3-b353-ed019852c2cc)
 
