@@ -1,8 +1,8 @@
 # Forest Generator for Gazebo
 Random forest generator with using different type of bushes and trees to create test enviroment for Gazebo
 
-![Image](https://github.com/user-attachments/assets/426a6a0a-fccb-4bc3-b353-ed019852c2cc)
 
+![Image](https://github.com/user-attachments/assets/d16ecc90-65d5-4f80-b0a5-61c37339aaac)
 Random forest enviroment for the test SLAM or path planner etc. algorithm.
 
 
@@ -72,6 +72,3 @@ In launch file check the world name because your generated world file will be in
 ```
 
 To use world file in your workspace do not forget the copy paste "model" folder.
-
-
-![Image](https://github.com/user-attachments/assets/a192a0f6-e075-42e5-9f38-147ec077cbf8)
