@@ -72,3 +72,8 @@ In launch file check the world name because your generated world file will be in
 ```
 
 To use world file in your workspace do not forget the copy paste "model" folder.
+
+
+Additionally, instead of generating trees in the Random Forest using purely random sampling, I employed the Halton sequence to create a more uniformly distributed set of samples. This quasi-random sequence ensures that the trees are better spread out across the feature space, avoiding clustering and underrepresented regions that may occur with standard random sampling. As a result, this structured diversity among trees is expected to lead to more stable and representative simulations, especially in scenarios where uniform coverage of the input space is important.
+
+![image](https://github.com/user-attachments/assets/d9dd2ef2-df15-40ec-8651-b137f3461599)
