@@ -72,3 +72,6 @@ In launch file check the world name because your generated world file will be in
 ```
 
 To use world file in your workspace do not forget the copy paste "model" folder.
+
+
+![Image]([https://github.com/user-attachments/assets/426a6a0a-fccb-4bc3-b353-ed019852c2cc](https://github.com/user-attachments/assets/a6db2491-41c4-4dc6-9a13-3c63e3f9fcff))
