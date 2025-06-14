@@ -25,7 +25,7 @@ from scipy.stats import qmc
 
 def generate_random_halton(num_points, xmin, xmax, ymin, ymax):
     # Generate 2D Halton sequence
-    halton_sequence = qmc.Halton(2)
+    halton_sequence = qmc.Halton(2, scramble=True) # random halton sequences
 
     # Generate Halton points
     halton_points = halton_sequence.random(num_points)
